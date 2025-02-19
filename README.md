@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on digital dots myanmar<br>🌱 I’m currently learning JavaScript, TypeScript and NodeJS<br>⚡Coding for Fun 
+
 
 
 ## 🌐 Socials:
